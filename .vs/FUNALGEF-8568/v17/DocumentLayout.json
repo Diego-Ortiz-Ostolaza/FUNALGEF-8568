@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\jb\\upn\\2024-2\\ISC UG 1 COMP1201A FUNDAMENTOS DE ALGORITMOS 8568 - Jorge Bojorquez\\03 EVALUACIONES\\05 Eval Final\\FUNALGEF-8568\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|d:\\jb\\upn\\2024-2\\isc ug 1 comp1201a fundamentos de algoritmos 8568 - jorge bojorquez\\03 evaluaciones\\05 eval final\\funalgef-8568\\alquilercarros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|c:\\users\\upn\\desktop\\diegoexamen\\examenfinal\\alquilercarros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|solutionrelative:alquilercarros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|c:\\users\\upn\\desktop\\diegoexamen\\examenfinal\\alquilercarros\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|solutionrelative:alquilercarros\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|c:\\users\\upn\\desktop\\diegoexamen\\examenfinal\\alquilercarros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|solutionrelative:alquilercarros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|c:\\users\\upn\\desktop\\diegoexamen\\examenfinal\\alquilercarros\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F194626B-B7BF-4504-A42F-AFCE3D8F5CCE}|AlquilerCarros\\AlquilerCarros.csproj|solutionrelative:alquilercarros\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 532,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\AlquilerCarros\\alquiler.cs",
+              "RelativeDocumentMoniker": "AlquilerCarros\\alquiler.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\AlquilerCarros\\alquiler.cs",
+              "RelativeToolTip": "AlquilerCarros\\alquiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:16:25.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\AlquilerCarros\\Cliente.cs",
+              "RelativeDocumentMoniker": "AlquilerCarros\\Cliente.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\AlquilerCarros\\Cliente.cs",
+              "RelativeToolTip": "AlquilerCarros\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:15:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "carro.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\AlquilerCarros\\carro.cs",
+              "RelativeDocumentMoniker": "AlquilerCarros\\carro.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\AlquilerCarros\\carro.cs",
+              "RelativeToolTip": "AlquilerCarros\\carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:12:05.198Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\jb\\upn\\2024-2\\ISC UG 1 COMP1201A FUNDAMENTOS DE ALGORITMOS 8568 - Jorge Bojorquez\\03 EVALUACIONES\\05 Eval Final\\FUNALGEF-8568\\AlquilerCarros\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\AlquilerCarros\\Program.cs",
               "RelativeDocumentMoniker": "AlquilerCarros\\Program.cs",
-              "ToolTip": "D:\\jb\\upn\\2024-2\\ISC UG 1 COMP1201A FUNDAMENTOS DE ALGORITMOS 8568 - Jorge Bojorquez\\03 EVALUACIONES\\05 Eval Final\\FUNALGEF-8568\\AlquilerCarros\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\DIEGOEXAMEN\\EXAMENFINAL\\AlquilerCarros\\Program.cs",
               "RelativeToolTip": "AlquilerCarros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T06:14:38.839Z",
               "EditorCaption": ""
