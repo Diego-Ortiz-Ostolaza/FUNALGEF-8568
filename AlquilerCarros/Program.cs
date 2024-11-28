@@ -64,10 +64,11 @@ do
 
                 case 1: d.crear(); break;
 
-                case 2:
+                case 2 d.mostrar();
                     break;
 
-                case 3: break;
+                case 3: d.eliminar(); 
+                    break;
 
 
             }
