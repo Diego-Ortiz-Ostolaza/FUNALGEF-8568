@@ -1,8 +1,7 @@
-﻿using AlquilerCarros;
-
+﻿using CarroUtil;
 byte opcion;
 string regresar;
-
+int ops;
 do
 {
     Console.ForegroundColor = ConsoleColor.Green;
@@ -42,11 +41,42 @@ do
         case 0: Environment.Exit(0); break;
 
 
-        case 1:  break;
+        case 1:
+            Carro d = new Carro();
+            Console.WriteLine("     Opción carro util \n");
 
-        case 2:  break;
+            Console.WriteLine("******************* MENÚ ******************");
 
-        case 3:  break;
+            Console.WriteLine("* 1. Agregar información del del carro       *");
+
+            Console.WriteLine("* 2. Mostrar la información del carro        *");
+
+            Console.WriteLine("* 3. Eliminar la información del carro        *");
+
+            Console.WriteLine("* 0. Salir                                *");
+
+            Console.WriteLine("*******************************************\n");
+            ops = int.Parse(Console.ReadLine());
+            switch (ops)
+            {
+
+                case 0: Environment.Exit(0); break;
+
+                case 1: d.crear(); break;
+
+                case 2:
+                    break;
+
+                case 3: break;
+
+
+            }
+
+            break;
+
+        case 2: break;
+
+        case 3: break;
 
 
 
@@ -61,11 +91,6 @@ do
     Console.Clear();
     Console.ResetColor();
 } while (regresar == "si");
-
-
-
-
-
 
 
 
