@@ -120,7 +120,7 @@ namespace CarroUtil
 
             {
 
-                Console.WriteLine("No hay animales para eliminar.");
+                Console.WriteLine("No hay vehiculos para eliminar.");
 
                 return;
 
